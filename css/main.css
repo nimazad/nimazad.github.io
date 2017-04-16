@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+table{
+padding: 15;
+font-size: 1.5em;
+line-height: 1.4em;
+}
